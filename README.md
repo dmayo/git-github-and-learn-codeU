@@ -23,7 +23,11 @@ Enter GitHub. GitHub is a code repository (which means a place where you can sto
 
 ## How does Learn use Git and GitHub?
 
-When you signed up for Learn, we asked you to create a Github account and connect it to Learn. Now that Learn is connected to your Github account, all of the code you'll write to solve code labs on Learn will get pushed and saved to Github via the git version control system. This doesn't happen fully automatically—you'll need to do a bit of work, and we'll describe that very soon. In short, what you need to understand is that git will be used to store your code on Github and that we've created some convenient shortcuts to make this easier for you early on. You'll learn more about this workflow in the next lesson. 
+Learn uses GitHub in two very important ways: (1) GitHub is where every lesson on Learn is stored and (2) Your Learn account is intimately tied to your GitHub account. 
+
+First, we treat curriculum on Learn (that is, all of the lessons and code labs you'll see on the site, including this one) just as developers treat code: every lesson is actually its own repository on GitHub! The reason this is significant, is that this will allow you to interact with code that accompanies our lessons in the same way a real developer would (e.g. with a git-based workflow—more on that later). Another reason this is significant is that it means that we can use git to manage and improve the curriculum content itself. And because we've open-sourced all of this content, the whole world (that includes you!) can contribute to making changes to improve what's here. You can think of Learn, built on top of GitHub, much like Wikipedia—we want the world to work together to create the best, and most up-to-date, free curriculum that has ever existed. And this is all made possible by git's version control features. 
+
+Second, when you signed up for Learn, we asked you to create a Github account and connect it to Learn. Now that Learn is connected to your Github account, all of the code you'll write to solve code labs on Learn will get pushed and saved to Github via the git version control system. This doesn't happen fully automatically—you'll need to do a bit of work, and we'll describe that very soon. In short, what you need to understand is that git will be used to store your code on Github and that we've created some convenient shortcuts to make this easier for you early on. You'll learn more about this workflow in the next lesson. 
 
 ## So, why is Learn built like this?
 
