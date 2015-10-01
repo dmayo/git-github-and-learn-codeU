@@ -1,10 +1,3 @@
----
-tags:
-level:
-languages:
-resources:
----
-
 # Git, Github And Learn
 
 ## What is GitHub and Why Should You Care
