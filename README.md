@@ -2,7 +2,7 @@
 
 ## What is GitHub and Why Should You Care
 
-GitHub is how people build software. With a community of more than 11 million people, developers discover, use, and contribute to over 27 million projects using a powerful collaborative development workflow.
+GitHub is how people build software. With a community of more than 11 million, you can discover, use, and contribute to over 27 million projects with a powerful and social workflow.
 
 ![GitHub](https://dl.dropboxusercontent.com/s/y2zk87zccskibyq/2015-09-30%20at%2010.50%20PM.png)
 
