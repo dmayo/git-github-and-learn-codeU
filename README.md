@@ -8,7 +8,7 @@ GitHub is how people build software. With a community of more than 11 million, y
 
 It is easy to hype technology, but GitHub might be one of the most important tools for programmers since the free operating system Linux. It's no surprise that the technology behind GitHub, Git, was also written by Linus Torvalds, the creator of Linux, and also given to the world for free as open-source.
 
-## What Does Git and GitHub Do?
+## What Do Git and GitHub Do?
 
 Programmers manage thousands of lines of code spanning hundreds of files that are being worked on by an entire team simultaneously.
 
