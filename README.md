@@ -35,3 +35,5 @@ We also get to improve and manage the curriculum using the same workflows that p
 When you signed up for Learn, you connected your GitHub account. This connection allows us to push all the code you write as you go through Learn to GitHub automatically. That means as you Learn, you're actually building an active GitHub profile, allowing the world to see what you know and built.
 
 The Learn and GitHub integration makes Learn unlike any other educational platform, allowing you to learn in the same workflow you will one day use as a professional programmer. If you use professional tools and learn in a real environment, you will master the entire craft of code.
+
+<a href='https://learn.co/lessons/git-github-and-learn' data-visibility='hidden'>View this lesson on Learn.co</a>
