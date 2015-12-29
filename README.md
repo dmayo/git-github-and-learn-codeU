@@ -26,7 +26,7 @@ Learn uses GitHub in two important ways:
 
 2. Your code on Learn is synchronized with your GitHub account.
 
-First, we treat curriculum on Learn just as developers treat code: every lesson is actually its own repository on GitHub.
+First, we treat curriculum on Learn just as developers treat code: every lesson is actually its own repository on GitHub. A repository is simply a digital directory where you can access all the files and versions tied to a specific project. In this case, a project would be a lesson.
 
 You can interact with the curriculum and code on Learn the same way a real developer would work with a project on GitHub.
 
