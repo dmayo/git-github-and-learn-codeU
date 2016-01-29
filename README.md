@@ -36,4 +36,4 @@ When you signed up for Learn, you connected your GitHub account. This connection
 
 The Learn and GitHub integration makes Learn unlike any other educational platform, allowing you to learn in the same workflow you will one day use as a professional programmer. If you use professional tools and learn in a real environment, you will master the entire craft of code.
 
-<a href='https://learn.co/lessons/git-github-and-learn' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-github-and-learn' title='Git, Github And Learn'>Git, Github And Learn</a> on Learn.co and start learning to code for free.</p>
